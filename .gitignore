@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory used by testing tools
+coverage/
+
+# PM2 logs and dump files
+pids/
+*.pid
+*.seed
+*.pid.lock
+dump.rdb
+
+# Debugger
+node-inspector/
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment files
+.env.*
